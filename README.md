@@ -18,7 +18,7 @@ Bookmarks are saved in localStorage in the current browser profile. The initial 
 
 ## Run locally
 
-Use Node.js and npm, then run these commands from the project folder:
+Use Node.js 20.19 or newer and npm, then run these commands from the project folder:
 
 ```sh
 npm install
